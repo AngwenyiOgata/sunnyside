@@ -10,7 +10,6 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshot1.png)
-![](screenshot2.png)
 
 ### Links
 
@@ -29,12 +28,12 @@ Users should be able to:
 using css clip-paths
 using html <picture> elements
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
 
 ### Useful resources
 
-- [How to do clip--path](https://bennettfeely.com/clippy/) - This helped me for generate clip-paths
+- [How to do clip-path](https://bennettfeely.com/clippy/) - This helped me for generate clip-paths
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AngwenyiOgata](https://www.frontendmentor.io/profile/AngwenyiOgata)
