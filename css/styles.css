@@ -577,10 +577,10 @@ span {
     flex-direction: column;
   }
   .main .main__section_two article:first-child {
-    background-image: url(/images/mobile/image-graphic-design.jpg);
+    background-image: url(../images/mobile/image-graphic-design.jpg);
   }
   .main .main__section_two article:last-child {
-    background-image: url(/images/mobile/image-photography.jpg);
+    background-image: url(../images/mobile/image-photography.jpg);
   }
   .main .main__section_two article:first-child,
   .main .main__section_two article:last-child {
