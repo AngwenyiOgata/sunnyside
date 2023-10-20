@@ -634,4 +634,8 @@ span {
   .footer section:nth-child(3) a ion-icon:focus {
     color: var(--White);
   }
+  .attribution {
+  font-size: 10px;
+  margin-bottom: 10px;
+}
 }
