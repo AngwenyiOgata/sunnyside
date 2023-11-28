@@ -14,7 +14,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/AngwenyiOgata/Sunny-side-challenge.git)
-- Live Site URL: [Add live site URL here](https://angwenyiogata.github.io/Sunny-side-challenge/)
+- Live Site URL: [Add live site URL here](https://angwenyiogata.github.io/sunnyside/)
 
 
 ### Built with
